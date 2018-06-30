@@ -1,0 +1,59 @@
+body {
+	background:url(C:\Users\Admin.DESKTOP-HT5Q6EV\Documents\PRACTICOWEB\images\background.jpg) no-repeat fixed center center #333 ;
+	background-size: cover; 
+}
+h2 {color: gold;
+font-family: cursive;
+
+}
+p {font-family: serif;}
+h3 {color: gold;
+	font-family: cursive;
+}
+
+#contenedor{
+	background-color: #ff6072;
+	width: 40%;
+	height: 70%;
+	margin: 0 auto;
+}
+
+.contenedor2{
+color: black;
+background-color: #ff6072;
+width: 40%;
+margin: 100px;	
+}
+
+#formulario{
+	background-color: black;
+	color: white;
+
+}
+
+button{
+	margin: 20px;
+	width: 400px;
+	padding: 1em;
+	border: 1px solid blue;
+	border-radius: 1em;
+
+
+}
+form {
+height: 100%;
+width: 100;
+padding: 2em;
+border: 1px solid #CCC;
+border-radius: 2em;
+
+}
+
+.enviar {
+
+	width: 50%;
+	height: 50%;
+}
+#subnombre {
+	color: gold
+}
